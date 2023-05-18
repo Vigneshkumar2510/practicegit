@@ -1,4 +1,3 @@
 # practicegit
-wlkenknsfm sesfkvjnsf mzdsk
-esfnkjsnkfjv
-wekjdnszkfn
+# sample git file for test
+This read me file is updated through git command in terminal
