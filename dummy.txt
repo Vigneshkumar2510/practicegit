@@ -1,1 +1,4 @@
 this file consist of summy text that is created using git 
+adding to check git fetch and pull commands
+check add and edit .
+Now edited for testing add and edit
